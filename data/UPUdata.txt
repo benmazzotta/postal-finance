@@ -1,0 +1,747 @@
+Administrations	Years	Items	Value	Remark	Info	Ref.	
+Afghanistan	2012	4.1 Operating revenue (SDR)	1597304,549				
+Afghanistan	2012	4.2 Operating expenditure (SDR)			ND		
+Afghanistan	2012	4.3 Operating result (SDR)			ND		
+Afghanistan	2012	4.4 Net result (SDR)			ND		
+Afghanistan	2012	5.3 Percentage of income linked to postal financial services			NA		
+Albania	2012	4.1 Operating revenue (SDR)	11813158,105				
+Albania	2012	4.2 Operating expenditure (SDR)	10524762,882				
+Albania	2012	4.3 Operating result (SDR)	1288395,223				
+Albania	2012	4.4 Net result (SDR)	1128685,849				
+Albania	2012	5.3 Percentage of income linked to postal financial services	46,4				
+Angola	2012	4.1 Operating revenue (SDR)	5227353,898				
+Angola	2012	4.2 Operating expenditure (SDR)	7023791,902				
+Angola	2012	4.3 Operating result (SDR)	-1796438,004				
+Angola	2012	4.4 Net result (SDR)	-1796438,005				
+Angola	2012	5.3 Percentage of income linked to postal financial services			NA		
+Antigua and Barbuda	2012	4.1 Operating revenue (SDR)			ND		
+Antigua and Barbuda	2012	4.2 Operating expenditure (SDR)			ND		
+Antigua and Barbuda	2012	4.3 Operating result (SDR)			ND		
+Antigua and Barbuda	2012	4.4 Net result (SDR)			ND		
+Antigua and Barbuda	2012	5.3 Percentage of income linked to postal financial services			ND		
+Argentina	2012	4.1 Operating revenue (SDR)			ND		
+Argentina	2012	4.2 Operating expenditure (SDR)			ND		
+Argentina	2012	4.3 Operating result (SDR)			ND		
+Argentina	2012	4.4 Net result (SDR)			ND		
+Argentina	2012	5.3 Percentage of income linked to postal financial services			ND		
+Armenia	2012	4.1 Operating revenue (SDR)	10746428,792				
+Armenia	2012	4.2 Operating expenditure (SDR)	9645585,872				
+Armenia	2012	4.3 Operating result (SDR)	1100842,92				
+Armenia	2012	4.4 Net result (SDR)	886028,742				
+Armenia	2012	5.3 Percentage of income linked to postal financial services	52				
+Australia	2012	4.1 Operating revenue (SDR)	3470683818,551				
+Australia	2012	4.2 Operating expenditure (SDR)	3222410291,131				
+Australia	2012	4.3 Operating result (SDR)	248273527,42				
+Australia	2012	4.4 Net result (SDR)	190385917,4				
+Australia	2012	5.3 Percentage of income linked to postal financial services			ND		
+Austria	2012	4.1 Operating revenue (SDR)	2092789699,571				
+Austria	2012	4.2 Operating expenditure (SDR)	1924377682,403				
+Austria	2012	4.3 Operating result (SDR)	168412017,168				
+Austria	2012	4.4 Net result (SDR)	105751072,961				
+Austria	2012	5.3 Percentage of income linked to postal financial services			ND		
+Azerbaijan	2012	4.1 Operating revenue (SDR)	22722007,463				
+Azerbaijan	2012	4.2 Operating expenditure (SDR)	26383676,617				
+Azerbaijan	2012	4.3 Operating result (SDR)	-3661669,154				
+Azerbaijan	2012	4.4 Net result (SDR)			ND		
+Azerbaijan	2012	5.3 Percentage of income linked to postal financial services	54				
+Barbados	2012	4.1 Operating revenue (SDR)	6757635,329				
+Barbados	2012	4.2 Operating expenditure (SDR)	10240643,787				
+Barbados	2012	4.3 Operating result (SDR)	-3483008,458				
+Barbados	2012	4.4 Net result (SDR)	-3483008,458				
+Barbados	2012	5.3 Percentage of income linked to postal financial services	16				
+Belarus	2012	4.1 Operating revenue (SDR)	99232002,906				
+Belarus	2012	4.2 Operating expenditure (SDR)	96233324,86				
+Belarus	2012	4.3 Operating result (SDR)	2998678,046				
+Belarus	2012	4.4 Net result (SDR)	1192636,715				
+Belarus	2012	5.3 Percentage of income linked to postal financial services	50				
+Benin	2012	4.1 Operating revenue (SDR)	6358903,945				
+Benin	2012	4.2 Operating expenditure (SDR)	6244479,821				
+Benin	2012	4.3 Operating result (SDR)	114424,124				
+Benin	2012	4.4 Net result (SDR)	-1968890,068				
+Benin	2012	5.3 Percentage of income linked to postal financial services	63,69				
+Bermuda	2012	4.1 Operating revenue (SDR)	3417215,355				
+Bermuda	2012	4.2 Operating expenditure (SDR)	8775095,641				
+Bermuda	2012	4.3 Operating result (SDR)	-5357880,286				
+Bermuda	2012	4.4 Net result (SDR)	-5357880,286				
+Bermuda	2012	5.3 Percentage of income linked to postal financial services			NA		
+Bhutan	2012	4.1 Operating revenue (SDR)			ND		
+Bhutan	2012	4.2 Operating expenditure (SDR)			ND		
+Bhutan	2012	4.3 Operating result (SDR)			ND		
+Bhutan	2012	4.4 Net result (SDR)			ND		
+Bhutan	2012	5.3 Percentage of income linked to postal financial services			ND		
+Bosnia and Herzegovina	2012	4.1 Operating revenue (SDR)	71015815,189				
+Bosnia and Herzegovina	2012	4.2 Operating expenditure (SDR)	73889467,954				
+Bosnia and Herzegovina	2012	4.3 Operating result (SDR)	-2873652,765				
+Bosnia and Herzegovina	2012	4.4 Net result (SDR)	-2873653,644				
+Bosnia and Herzegovina	2012	5.3 Percentage of income linked to postal financial services	26,6				
+Brazil	2012	4.1 Operating revenue (SDR)	4621274056,745				
+Brazil	2012	4.2 Operating expenditure (SDR)	4505333775,322				
+Brazil	2012	4.3 Operating result (SDR)	115940281,423				
+Brazil	2012	4.4 Net result (SDR)	332503430,764				
+Brazil	2012	5.3 Percentage of income linked to postal financial services	1,49				
+Brunei Darussalam	2012	4.1 Operating revenue (SDR)			ND		
+Brunei Darussalam	2012	4.2 Operating expenditure (SDR)			ND		
+Brunei Darussalam	2012	4.3 Operating result (SDR)			ND		
+Brunei Darussalam	2012	4.4 Net result (SDR)			ND		
+Brunei Darussalam	2012	5.3 Percentage of income linked to postal financial services			ND		
+Bulgaria (Rep.)	2012	4.1 Operating revenue (SDR)	57356265,789				
+Bulgaria (Rep.)	2012	4.2 Operating expenditure (SDR)	61541531,579				
+Bulgaria (Rep.)	2012	4.3 Operating result (SDR)	-4185265,79				
+Bulgaria (Rep.)	2012	4.4 Net result (SDR)	-4996021,053				
+Bulgaria (Rep.)	2012	5.3 Percentage of income linked to postal financial services	4,8				
+Burkina Faso	2012	4.1 Operating revenue (SDR)	21127828,119				
+Burkina Faso	2012	4.2 Operating expenditure (SDR)	17747515,279				
+Burkina Faso	2012	4.3 Operating result (SDR)	3380312,84				
+Burkina Faso	2012	4.4 Net result (SDR)	2254724,291				
+Burkina Faso	2012	5.3 Percentage of income linked to postal financial services	11,43				
+Cambodia	2012	4.1 Operating revenue (SDR)	2641518,112				
+Cambodia	2012	4.2 Operating expenditure (SDR)	2509686,324				
+Cambodia	2012	4.3 Operating result (SDR)	131831,788				
+Cambodia	2012	4.4 Net result (SDR)	105465,506				
+Cambodia	2012	5.3 Percentage of income linked to postal financial services	,02				
+Canada	2012	4.1 Operating revenue (SDR)	3833986928,105				
+Canada	2012	4.2 Operating expenditure (SDR)	3783660130,719				
+Canada	2012	4.3 Operating result (SDR)	50326797,386				
+Canada	2012	4.4 Net result (SDR)	51633986,928				
+Canada	2012	5.3 Percentage of income linked to postal financial services	,6				
+Cayman Islands	2012	4.1 Operating revenue (SDR)	2675342,063				
+Cayman Islands	2012	4.2 Operating expenditure (SDR)	3802231,746				
+Cayman Islands	2012	4.3 Operating result (SDR)	-1126889,683				
+Cayman Islands	2012	4.4 Net result (SDR)			ND		
+Cayman Islands	2012	5.3 Percentage of income linked to postal financial services			ND		
+Chad	2012	4.1 Operating revenue (SDR)	570836,849				
+Chad	2012	4.2 Operating expenditure (SDR)	1597888,762				
+Chad	2012	4.3 Operating result (SDR)	-1027051,913				
+Chad	2012	4.4 Net result (SDR)	-1027051,913				
+Chad	2012	5.3 Percentage of income linked to postal financial services	40				
+Chile	2012	4.1 Operating revenue (SDR)	105030366,985				
+Chile	2012	4.2 Operating expenditure (SDR)	99352805,019				
+Chile	2012	4.3 Operating result (SDR)	5677561,966				
+Chile	2012	4.4 Net result (SDR)	2525190,497				
+Chile	2012	5.3 Percentage of income linked to postal financial services	,45				
+China (People's Rep.)	2012	4.1 Operating revenue (SDR)	33241957173,891				
+China (People's Rep.)	2012	4.2 Operating expenditure (SDR)			ND		
+China (People's Rep.)	2012	4.3 Operating result (SDR)			ND		
+China (People's Rep.)	2012	4.4 Net result (SDR)			ND		
+China (People's Rep.)	2012	5.3 Percentage of income linked to postal financial services	70,2				
+Colombia	2012	4.1 Operating revenue (SDR)	65631950,748				
+Colombia	2012	4.2 Operating expenditure (SDR)	63369527,228				
+Colombia	2012	4.3 Operating result (SDR)	2262423,52				
+Colombia	2012	4.4 Net result (SDR)	1702620,145				
+Colombia	2012	5.3 Percentage of income linked to postal financial services	9,96				
+Comoros	2012	4.1 Operating revenue (SDR)	3478511,27				
+Comoros	2012	4.2 Operating expenditure (SDR)	4045409,866				
+Comoros	2012	4.3 Operating result (SDR)	-566898,596				
+Comoros	2012	4.4 Net result (SDR)	-1676171,33				
+Comoros	2012	5.3 Percentage of income linked to postal financial services	66,5				
+Costa Rica	2012	4.1 Operating revenue (SDR)	16785696,149				
+Costa Rica	2012	4.2 Operating expenditure (SDR)	16164438,732				
+Costa Rica	2012	4.3 Operating result (SDR)	621257,417				
+Costa Rica	2012	4.4 Net result (SDR)	503523,55				
+Costa Rica	2012	5.3 Percentage of income linked to postal financial services	,94				
+Côte d'Ivoire (Rep.)	2012	4.1 Operating revenue (SDR)	13564671,95				
+Côte d'Ivoire (Rep.)	2012	4.2 Operating expenditure (SDR)	15684255,026				
+Côte d'Ivoire (Rep.)	2012	4.3 Operating result (SDR)	-2119583,076				
+Côte d'Ivoire (Rep.)	2012	4.4 Net result (SDR)	-468697,436				
+Côte d'Ivoire (Rep.)	2012	5.3 Percentage of income linked to postal financial services	6,2				
+Croatia	2012	4.1 Operating revenue (SDR)	178050702,795				
+Croatia	2012	4.2 Operating expenditure (SDR)	179352210,52				
+Croatia	2012	4.3 Operating result (SDR)	-1301507,725				
+Croatia	2012	4.4 Net result (SDR)	-4148041,127				
+Croatia	2012	5.3 Percentage of income linked to postal financial services	1,02				
+Cuba	2012	4.1 Operating revenue (SDR)	118138604,882				
+Cuba	2012	4.2 Operating expenditure (SDR)	109089924,987				
+Cuba	2012	4.3 Operating result (SDR)	9048679,895				
+Cuba	2012	4.4 Net result (SDR)	5587547,059				
+Cuba	2012	5.3 Percentage of income linked to postal financial services	24,5				
+Cyprus	2012	4.1 Operating revenue (SDR)	26246653,219				
+Cyprus	2012	4.2 Operating expenditure (SDR)	26246653,219				
+Cyprus	2012	4.3 Operating result (SDR)	0				
+Cyprus	2012	4.4 Net result (SDR)	23085458,369				
+Cyprus	2012	5.3 Percentage of income linked to postal financial services	,11				
+Czech Rep.	2012	4.1 Operating revenue (SDR)	689168578,843				
+Czech Rep.	2012	4.2 Operating expenditure (SDR)	680571365,157				
+Czech Rep.	2012	4.3 Operating result (SDR)	8597213,686				
+Czech Rep.	2012	4.4 Net result (SDR)	8924844,636				
+Czech Rep.	2012	5.3 Percentage of income linked to postal financial services	7,92				
+Democratic Republic of the Congo	2012	4.1 Operating revenue (SDR)	891423,62				
+Democratic Republic of the Congo	2012	4.2 Operating expenditure (SDR)	14455810,699				
+Democratic Republic of the Congo	2012	4.3 Operating result (SDR)	-13564387,079				
+Democratic Republic of the Congo	2012	4.4 Net result (SDR)	-13564031,614				
+Democratic Republic of the Congo	2012	5.3 Percentage of income linked to postal financial services	5				
+Denmark	2012	4.1 Operating revenue (SDR)	1032881122,097				
+Denmark	2012	4.2 Operating expenditure (SDR)	974706829,156				
+Denmark	2012	4.3 Operating result (SDR)	58174292,941				
+Denmark	2012	4.4 Net result (SDR)	-14256150,839				
+Denmark	2012	5.3 Percentage of income linked to postal financial services			ND		
+Djibouti	2012	4.1 Operating revenue (SDR)			ND		
+Djibouti	2012	4.2 Operating expenditure (SDR)			ND		
+Djibouti	2012	4.3 Operating result (SDR)			ND		
+Djibouti	2012	4.4 Net result (SDR)			ND		
+Djibouti	2012	5.3 Percentage of income linked to postal financial services			ND		
+Dominica	2012	4.1 Operating revenue (SDR)			ND		
+Dominica	2012	4.2 Operating expenditure (SDR)			ND		
+Dominica	2012	4.3 Operating result (SDR)			ND		
+Dominica	2012	4.4 Net result (SDR)			ND		
+Dominica	2012	5.3 Percentage of income linked to postal financial services	69				
+Dominican Republic	2012	4.1 Operating revenue (SDR)	1639943,356				
+Dominican Republic	2012	4.2 Operating expenditure (SDR)	4922887,583				
+Dominican Republic	2012	4.3 Operating result (SDR)	-3282944,227				
+Dominican Republic	2012	4.4 Net result (SDR)	-3282944,227				
+Dominican Republic	2012	5.3 Percentage of income linked to postal financial services	,27				
+Ecuador	2012	4.1 Operating revenue (SDR)	20530469,356				
+Ecuador	2012	4.2 Operating expenditure (SDR)	20579882,967				
+Ecuador	2012	4.3 Operating result (SDR)	-49413,611				
+Ecuador	2012	4.4 Net result (SDR)	-49413,611				
+Ecuador	2012	5.3 Percentage of income linked to postal financial services	,08				
+Egypt	2012	4.1 Operating revenue (SDR)			ND		
+Egypt	2012	4.2 Operating expenditure (SDR)			ND		
+Egypt	2012	4.3 Operating result (SDR)			ND		
+Egypt	2012	4.4 Net result (SDR)			ND		
+Egypt	2012	5.3 Percentage of income linked to postal financial services	21				
+El Salvador	2012	4.1 Operating revenue (SDR)	1039439,004				
+El Salvador	2012	4.2 Operating expenditure (SDR)	916116,355				
+El Salvador	2012	4.3 Operating result (SDR)	123322,649				
+El Salvador	2012	4.4 Net result (SDR)			ND		
+El Salvador	2012	5.3 Percentage of income linked to postal financial services	0				
+Eritrea	2012	4.1 Operating revenue (SDR)	1222456,115				
+Eritrea	2012	4.2 Operating expenditure (SDR)	732910,961				
+Eritrea	2012	4.3 Operating result (SDR)	489545,154				
+Eritrea	2012	4.4 Net result (SDR)	320268,811				
+Eritrea	2012	5.3 Percentage of income linked to postal financial services	5				
+Estonia	2012	4.1 Operating revenue (SDR)	44359527,725				
+Estonia	2012	4.2 Operating expenditure (SDR)	41834218,755				
+Estonia	2012	4.3 Operating result (SDR)	2525308,97				
+Estonia	2012	4.4 Net result (SDR)	2161497,133				
+Estonia	2012	5.3 Percentage of income linked to postal financial services	5,4				
+Ethiopia	2012	4.1 Operating revenue (SDR)	4740376,938				
+Ethiopia	2012	4.2 Operating expenditure (SDR)	4457280,145				
+Ethiopia	2012	4.3 Operating result (SDR)	283096,793				
+Ethiopia	2012	4.4 Net result (SDR)	195336,788				
+Ethiopia	2012	5.3 Percentage of income linked to postal financial services	4,4				
+Faröe Islands	2012	4.1 Operating revenue (SDR)	10232237,296				
+Faröe Islands	2012	4.2 Operating expenditure (SDR)	9864336,629				
+Faröe Islands	2012	4.3 Operating result (SDR)	367900,667				
+Faröe Islands	2012	4.4 Net result (SDR)	-298919,292				
+Faröe Islands	2012	5.3 Percentage of income linked to postal financial services	2				
+Finland	2012	4.1 Operating revenue (SDR)	1692789699,571				
+Finland	2012	4.2 Operating expenditure (SDR)	1659227467,811				
+Finland	2012	4.3 Operating result (SDR)	33562231,76				
+Finland	2012	4.4 Net result (SDR)	12103004,292				
+Finland	2012	5.3 Percentage of income linked to postal financial services			NA		
+France	2012	4.1 Operating revenue (SDR)	18590557939,914				
+France	2012	4.2 Operating expenditure (SDR)	17890128755,365				
+France	2012	4.3 Operating result (SDR)	700429184,549				
+France	2012	4.4 Net result (SDR)	412875536,481				
+France	2012	5.3 Percentage of income linked to postal financial services	24,1				
+French Polynesia	2012	4.1 Operating revenue (SDR)	13051538,747				
+French Polynesia	2012	4.2 Operating expenditure (SDR)	6866889,136				
+French Polynesia	2012	4.3 Operating result (SDR)	6184649,611				
+French Polynesia	2012	4.4 Net result (SDR)	6199480,905				
+French Polynesia	2012	5.3 Percentage of income linked to postal financial services	6				
+Gabon	2012	4.1 Operating revenue (SDR)	10310168,826				
+Gabon	2012	4.2 Operating expenditure (SDR)	16529250,098				
+Gabon	2012	4.3 Operating result (SDR)	-6219081,272				
+Gabon	2012	4.4 Net result (SDR)	-5179950,268				
+Gabon	2012	5.3 Percentage of income linked to postal financial services	77				
+Georgia	2012	4.1 Operating revenue (SDR)	33996917,518				
+Georgia	2012	4.2 Operating expenditure (SDR)			ND		
+Georgia	2012	4.3 Operating result (SDR)			ND		
+Georgia	2012	4.4 Net result (SDR)			ND		
+Georgia	2012	5.3 Percentage of income linked to postal financial services	,05				
+Germany	2012	4.1 Operating revenue (SDR)	47649785407,725				
+Germany	2012	4.2 Operating expenditure (SDR)	47223175965,665				
+Germany	2012	4.3 Operating result (SDR)	426609442,06				
+Germany	2012	4.4 Net result (SDR)	1527896995,708				
+Germany	2012	5.3 Percentage of income linked to postal financial services	0				
+Great Britain	2012	4.1 Operating revenue (SDR)	7988706365,503				
+Great Britain	2012	4.2 Operating expenditure (SDR)	7640657084,189				
+Great Britain	2012	4.3 Operating result (SDR)	348049281,314				
+Great Britain	2012	4.4 Net result (SDR)	469199178,645				
+Great Britain	2012	5.3 Percentage of income linked to postal financial services			ND		
+Greece	2012	4.1 Operating revenue (SDR)	352150968,24				
+Greece	2012	4.2 Operating expenditure (SDR)	350550318,455				
+Greece	2012	4.3 Operating result (SDR)	1600649,785				
+Greece	2012	4.4 Net result (SDR)	-532648,069				
+Greece	2012	5.3 Percentage of income linked to postal financial services	18,3				
+Greenland	2012	4.1 Operating revenue (SDR)	12852272,727				
+Greenland	2012	4.2 Operating expenditure (SDR)	11318181,818				
+Greenland	2012	4.3 Operating result (SDR)	1534090,909				
+Greenland	2012	4.4 Net result (SDR)			ND		
+Greenland	2012	5.3 Percentage of income linked to postal financial services	8				
+Grenada	2012	4.1 Operating revenue (SDR)	1009486,506				
+Grenada	2012	4.2 Operating expenditure (SDR)	1372171,566				
+Grenada	2012	4.3 Operating result (SDR)	-362685,06				
+Grenada	2012	4.4 Net result (SDR)	-218106,747				
+Grenada	2012	5.3 Percentage of income linked to postal financial services	5				
+Guatemala	2012	4.1 Operating revenue (SDR)	6687034,037				
+Guatemala	2012	4.2 Operating expenditure (SDR)	7171731,251				
+Guatemala	2012	4.3 Operating result (SDR)	-484697,214				
+Guatemala	2012	4.4 Net result (SDR)	-562571,947				
+Guatemala	2012	5.3 Percentage of income linked to postal financial services	0				
+Guinea	2012	4.1 Operating revenue (SDR)	727251,607				
+Guinea	2012	4.2 Operating expenditure (SDR)	594026,532				
+Guinea	2012	4.3 Operating result (SDR)	133225,075				
+Guinea	2012	4.4 Net result (SDR)	86596,299				
+Guinea	2012	5.3 Percentage of income linked to postal financial services	0				
+Guyana	2012	4.1 Operating revenue (SDR)	2371902,19				
+Guyana	2012	4.2 Operating expenditure (SDR)	2619694,186				
+Guyana	2012	4.3 Operating result (SDR)	-247791,996				
+Guyana	2012	4.4 Net result (SDR)	-152225,047				
+Guyana	2012	5.3 Percentage of income linked to postal financial services	17				
+Haiti	2012	4.1 Operating revenue (SDR)	158692,931				
+Haiti	2012	4.2 Operating expenditure (SDR)	175868,304				
+Haiti	2012	4.3 Operating result (SDR)	-17175,373				
+Haiti	2012	4.4 Net result (SDR)	-7427,478				
+Haiti	2012	5.3 Percentage of income linked to postal financial services			ND		
+Hongkong, China	2012	4.1 Operating revenue (SDR)	420920080,591				
+Hongkong, China	2012	4.2 Operating expenditure (SDR)	425117528,543				
+Hongkong, China	2012	4.3 Operating result (SDR)	-4197447,952				
+Hongkong, China	2012	4.4 Net result (SDR)	-6128274,009				
+Hongkong, China	2012	5.3 Percentage of income linked to postal financial services			ND		
+Hungary	2012	4.1 Operating revenue (SDR)	592276016,634				
+Hungary	2012	4.2 Operating expenditure (SDR)	599490222,411				
+Hungary	2012	4.3 Operating result (SDR)	-7214205,777				
+Hungary	2012	4.4 Net result (SDR)	-9923219,419				
+Hungary	2012	5.3 Percentage of income linked to postal financial services	29				
+Indonesia	2012	4.1 Operating revenue (SDR)	229040602,99				
+Indonesia	2012	4.2 Operating expenditure (SDR)	214750225,253				
+Indonesia	2012	4.3 Operating result (SDR)	14290377,737				
+Indonesia	2012	4.4 Net result (SDR)	11642927,201				
+Indonesia	2012	5.3 Percentage of income linked to postal financial services	30				
+Iran (Islamic Rep.)	2012	4.1 Operating revenue (SDR)			ND		
+Iran (Islamic Rep.)	2012	4.2 Operating expenditure (SDR)			ND		
+Iran (Islamic Rep.)	2012	4.3 Operating result (SDR)			ND		
+Iran (Islamic Rep.)	2012	4.4 Net result (SDR)			ND		
+Iran (Islamic Rep.)	2012	5.3 Percentage of income linked to postal financial services			NA		
+Iraq	2012	4.1 Operating revenue (SDR)			ND		
+Iraq	2012	4.2 Operating expenditure (SDR)			ND		
+Iraq	2012	4.3 Operating result (SDR)			ND		
+Iraq	2012	4.4 Net result (SDR)			ND		
+Iraq	2012	5.3 Percentage of income linked to postal financial services	23				
+Ireland	2012	4.1 Operating revenue (SDR)	692957081,545				
+Ireland	2012	4.2 Operating expenditure (SDR)	707964806,867				
+Ireland	2012	4.3 Operating result (SDR)	-15007725,322				
+Ireland	2012	4.4 Net result (SDR)	-33800000				
+Ireland	2012	5.3 Percentage of income linked to postal financial services	20,9				
+Israel	2012	4.1 Operating revenue (SDR)			ND		
+Israel	2012	4.2 Operating expenditure (SDR)			ND		
+Israel	2012	4.3 Operating result (SDR)			ND		
+Israel	2012	4.4 Net result (SDR)			ND		
+Israel	2012	5.3 Percentage of income linked to postal financial services	22				
+Italy	2012	4.1 Operating revenue (SDR)	8008228259,227				
+Italy	2012	4.2 Operating expenditure (SDR)	7324576847,21				
+Italy	2012	4.3 Operating result (SDR)	683651412,017				
+Italy	2012	4.4 Net result (SDR)			ND		
+Italy	2012	5.3 Percentage of income linked to postal financial services	58,9				
+Jamaica	2012	4.1 Operating revenue (SDR)	9978143,103				
+Jamaica	2012	4.2 Operating expenditure (SDR)	13131178,648				
+Jamaica	2012	4.3 Operating result (SDR)	-3153035,545				
+Jamaica	2012	4.4 Net result (SDR)			ND		
+Jamaica	2012	5.3 Percentage of income linked to postal financial services	1				
+Japan	2012	4.1 Operating revenue (SDR)	13331859870,696				
+Japan	2012	4.2 Operating expenditure (SDR)	13097714629,379				
+Japan	2012	4.3 Operating result (SDR)	234145241,317				
+Japan	2012	4.4 Net result (SDR)	234145241,317				
+Japan	2012	5.3 Percentage of income linked to postal financial services			ND		
+Jordan	2012	4.1 Operating revenue (SDR)	6862157,654				
+Jordan	2012	4.2 Operating expenditure (SDR)	7240495,875				
+Jordan	2012	4.3 Operating result (SDR)	-378338,221				
+Jordan	2012	4.4 Net result (SDR)			ND		
+Jordan	2012	5.3 Percentage of income linked to postal financial services			ND		
+Kenya	2012	4.1 Operating revenue (SDR)	24393107,16				
+Kenya	2012	4.2 Operating expenditure (SDR)	24313429,98				
+Kenya	2012	4.3 Operating result (SDR)	79677,18				
+Kenya	2012	4.4 Net result (SDR)	-187474,375				
+Kenya	2012	5.3 Percentage of income linked to postal financial services	2,3				
+Kiribati	2012	4.1 Operating revenue (SDR)	140825,999				
+Kiribati	2012	4.2 Operating expenditure (SDR)	260115,775				
+Kiribati	2012	4.3 Operating result (SDR)	-119289,776				
+Kiribati	2012	4.4 Net result (SDR)			ND		
+Kiribati	2012	5.3 Percentage of income linked to postal financial services	45				
+Kyrgyzstan	2012	4.1 Operating revenue (SDR)	6957942,129				
+Kyrgyzstan	2012	4.2 Operating expenditure (SDR)	6842639,873				
+Kyrgyzstan	2012	4.3 Operating result (SDR)	115302,256				
+Kyrgyzstan	2012	4.4 Net result (SDR)	70004,942				
+Kyrgyzstan	2012	5.3 Percentage of income linked to postal financial services	72,3				
+Latvia	2012	4.1 Operating revenue (SDR)	47689178,922				
+Latvia	2012	4.2 Operating expenditure (SDR)	42486395,833				
+Latvia	2012	4.3 Operating result (SDR)	5202783,089				
+Latvia	2012	4.4 Net result (SDR)	4326068,627				
+Latvia	2012	5.3 Percentage of income linked to postal financial services	10				
+Lebanon	2012	4.1 Operating revenue (SDR)			ND		
+Lebanon	2012	4.2 Operating expenditure (SDR)			ND		
+Lebanon	2012	4.3 Operating result (SDR)			ND		
+Lebanon	2012	4.4 Net result (SDR)			ND		
+Lebanon	2012	5.3 Percentage of income linked to postal financial services	1				
+Lesotho	2012	4.1 Operating revenue (SDR)	1755179,35				
+Lesotho	2012	4.2 Operating expenditure (SDR)	1514054,534				
+Lesotho	2012	4.3 Operating result (SDR)	241124,816				
+Lesotho	2012	4.4 Net result (SDR)	241124,816				
+Lesotho	2012	5.3 Percentage of income linked to postal financial services	12				
+Libya	2012	4.1 Operating revenue (SDR)			ND		
+Libya	2012	4.2 Operating expenditure (SDR)			ND		
+Libya	2012	4.3 Operating result (SDR)			ND		
+Libya	2012	4.4 Net result (SDR)			ND		
+Libya	2012	5.3 Percentage of income linked to postal financial services			ND		
+Liechtenstein	2012	4.1 Operating revenue (SDR)	36520227,111				
+Liechtenstein	2012	4.2 Operating expenditure (SDR)	35215755,855				
+Liechtenstein	2012	4.3 Operating result (SDR)	1304471,256				
+Liechtenstein	2012	4.4 Net result (SDR)	1288857,346				
+Liechtenstein	2012	5.3 Percentage of income linked to postal financial services	5				
+Lithuania	2012	4.1 Operating revenue (SDR)	48717168,539				
+Lithuania	2012	4.2 Operating expenditure (SDR)	48485148,814				
+Lithuania	2012	4.3 Operating result (SDR)	232019,725				
+Lithuania	2012	4.4 Net result (SDR)	120843,945				
+Lithuania	2012	5.3 Percentage of income linked to postal financial services	18,14				
+Luxembourg	2012	4.1 Operating revenue (SDR)			ND		
+Luxembourg	2012	4.2 Operating expenditure (SDR)			ND		
+Luxembourg	2012	4.3 Operating result (SDR)			ND		
+Luxembourg	2012	4.4 Net result (SDR)			ND		
+Luxembourg	2012	5.3 Percentage of income linked to postal financial services			ND		
+Macao, China	2012	4.1 Operating revenue (SDR)	13160330,346				
+Macao, China	2012	4.2 Operating expenditure (SDR)	17358873,25				
+Macao, China	2012	4.3 Operating result (SDR)	-4198542,904				
+Macao, China	2012	4.4 Net result (SDR)	-1586507,227				
+Macao, China	2012	5.3 Percentage of income linked to postal financial services	0				
+Madagascar	2012	4.1 Operating revenue (SDR)	4576303,777				
+Madagascar	2012	4.2 Operating expenditure (SDR)	5161998,126				
+Madagascar	2012	4.3 Operating result (SDR)	-585694,349				
+Madagascar	2012	4.4 Net result (SDR)	-585694,349				
+Madagascar	2012	5.3 Percentage of income linked to postal financial services	41,01				
+Malawi	2012	4.1 Operating revenue (SDR)	2415985,237				
+Malawi	2012	4.2 Operating expenditure (SDR)	2884096,118				
+Malawi	2012	4.3 Operating result (SDR)	-468110,881				
+Malawi	2012	4.4 Net result (SDR)	-170036,036				
+Malawi	2012	5.3 Percentage of income linked to postal financial services	24				
+Malaysia	2012	4.1 Operating revenue (SDR)			ND		
+Malaysia	2012	4.2 Operating expenditure (SDR)			ND		
+Malaysia	2012	4.3 Operating result (SDR)			ND		
+Malaysia	2012	4.4 Net result (SDR)			ND		
+Malaysia	2012	5.3 Percentage of income linked to postal financial services	13,3				
+Maldives	2012	4.1 Operating revenue (SDR)	1445376,371				
+Maldives	2012	4.2 Operating expenditure (SDR)	1414921,829				
+Maldives	2012	4.3 Operating result (SDR)	30454,542				
+Maldives	2012	4.4 Net result (SDR)			ND		
+Maldives	2012	5.3 Percentage of income linked to postal financial services	8,84				
+Malta	2012	4.1 Operating revenue (SDR)	18127038,627				
+Malta	2012	4.2 Operating expenditure (SDR)	16357081,545				
+Malta	2012	4.3 Operating result (SDR)	1769957,082				
+Malta	2012	4.4 Net result (SDR)	1139055,794				
+Malta	2012	5.3 Percentage of income linked to postal financial services	,66				
+Mauritania	2012	4.1 Operating revenue (SDR)	2099058,351				
+Mauritania	2012	4.2 Operating expenditure (SDR)	1945563,633				
+Mauritania	2012	4.3 Operating result (SDR)	153494,718				
+Mauritania	2012	4.4 Net result (SDR)	84139,165				
+Mauritania	2012	5.3 Percentage of income linked to postal financial services	52				
+Mauritius	2012	4.1 Operating revenue (SDR)	10928507,482				
+Mauritius	2012	4.2 Operating expenditure (SDR)	10870955,365				
+Mauritius	2012	4.3 Operating result (SDR)	57552,117				
+Mauritius	2012	4.4 Net result (SDR)	-1368461,44				
+Mauritius	2012	5.3 Percentage of income linked to postal financial services	1				
+Mexico	2012	4.1 Operating revenue (SDR)	128968457,614				
+Mexico	2012	4.2 Operating expenditure (SDR)	233350880,52				
+Mexico	2012	4.3 Operating result (SDR)	-104382422,906				
+Mexico	2012	4.4 Net result (SDR)	-104382422,906				
+Mexico	2012	5.3 Percentage of income linked to postal financial services	,07				
+Moldova	2012	4.1 Operating revenue (SDR)	18165132,309				
+Moldova	2012	4.2 Operating expenditure (SDR)	18139661,543				
+Moldova	2012	4.3 Operating result (SDR)	25470,766				
+Moldova	2012	4.4 Net result (SDR)	3175,89				
+Moldova	2012	5.3 Percentage of income linked to postal financial services	14,9				
+Monaco	2012	4.1 Operating revenue (SDR)			ND		
+Monaco	2012	4.2 Operating expenditure (SDR)			ND		
+Monaco	2012	4.3 Operating result (SDR)			ND		
+Monaco	2012	4.4 Net result (SDR)			ND		
+Monaco	2012	5.3 Percentage of income linked to postal financial services	19				
+Mongolia	2012	4.1 Operating revenue (SDR)	3874955,715				
+Mongolia	2012	4.2 Operating expenditure (SDR)	3701203,433				
+Mongolia	2012	4.3 Operating result (SDR)	173752,282				
+Mongolia	2012	4.4 Net result (SDR)	137657,527				
+Mongolia	2012	5.3 Percentage of income linked to postal financial services			NA		
+Myanmar	2012	4.1 Operating revenue (SDR)			ND		
+Myanmar	2012	4.2 Operating expenditure (SDR)			ND		
+Myanmar	2012	4.3 Operating result (SDR)			ND		
+Myanmar	2012	4.4 Net result (SDR)	119329,532				
+Myanmar	2012	5.3 Percentage of income linked to postal financial services	6,69				
+Namibia	2012	4.1 Operating revenue (SDR)	60743915,506				
+Namibia	2012	4.2 Operating expenditure (SDR)	51551660,799				
+Namibia	2012	4.3 Operating result (SDR)	9192254,707				
+Namibia	2012	4.4 Net result (SDR)	6212842,492				
+Namibia	2012	5.3 Percentage of income linked to postal financial services	0				
+Nepal	2012	4.1 Operating revenue (SDR)	2022553,44				
+Nepal	2012	4.2 Operating expenditure (SDR)	16225099,697				
+Nepal	2012	4.3 Operating result (SDR)	-14202546,257				
+Nepal	2012	4.4 Net result (SDR)	-14202546,257				
+Nepal	2012	5.3 Percentage of income linked to postal financial services	10				
+Netherlands	2012	4.1 Operating revenue (SDR)	3744206008,584				
+Netherlands	2012	4.2 Operating expenditure (SDR)	3494420600,858				
+Netherlands	2012	4.3 Operating result (SDR)	249785407,726				
+Netherlands	2012	4.4 Net result (SDR)	206866952,79				
+Netherlands	2012	5.3 Percentage of income linked to postal financial services	0				
+New Caledonia	2012	4.1 Operating revenue (SDR)	173095341,717				
+New Caledonia	2012	4.2 Operating expenditure (SDR)	153260846,193				
+New Caledonia	2012	4.3 Operating result (SDR)	19834495,524				
+New Caledonia	2012	4.4 Net result (SDR)	16674270,56				
+New Caledonia	2012	5.3 Percentage of income linked to postal financial services	36,73				
+Nicaragua	2012	4.1 Operating revenue (SDR)	3099786,03				
+Nicaragua	2012	4.2 Operating expenditure (SDR)	2801869,256				
+Nicaragua	2012	4.3 Operating result (SDR)	297916,774				
+Nicaragua	2012	4.4 Net result (SDR)	-297916,773				
+Nicaragua	2012	5.3 Percentage of income linked to postal financial services	6,97				
+Niger	2012	4.1 Operating revenue (SDR)	2896623,011				
+Niger	2012	4.2 Operating expenditure (SDR)	3083222,356				
+Niger	2012	4.3 Operating result (SDR)	-186599,345				
+Niger	2012	4.4 Net result (SDR)	-178823,971				
+Niger	2012	5.3 Percentage of income linked to postal financial services	56,25				
+Norway	2012	4.1 Operating revenue (SDR)	2677841373,671				
+Norway	2012	4.2 Operating expenditure (SDR)	2570844527,508				
+Norway	2012	4.3 Operating result (SDR)	106996846,163				
+Norway	2012	4.4 Net result (SDR)	46489896,04				
+Norway	2012	5.3 Percentage of income linked to postal financial services	1				
+Oman	2012	4.1 Operating revenue (SDR)			ND		
+Oman	2012	4.2 Operating expenditure (SDR)			ND		
+Oman	2012	4.3 Operating result (SDR)			ND		
+Oman	2012	4.4 Net result (SDR)			ND		
+Oman	2012	5.3 Percentage of income linked to postal financial services			NA		
+Pakistan	2012	4.1 Operating revenue (SDR)	55260801,125				
+Pakistan	2012	4.2 Operating expenditure (SDR)	83116250,251				
+Pakistan	2012	4.3 Operating result (SDR)	-27855449,126				
+Pakistan	2012	4.4 Net result (SDR)	-27855449,126				
+Pakistan	2012	5.3 Percentage of income linked to postal financial services	12				
+Panama (Rep.)	2012	4.1 Operating revenue (SDR)	3323651,269				
+Panama (Rep.)	2012	4.2 Operating expenditure (SDR)	5177605,075				
+Panama (Rep.)	2012	4.3 Operating result (SDR)	-1853953,806				
+Panama (Rep.)	2012	4.4 Net result (SDR)	-1853953,806				
+Panama (Rep.)	2012	5.3 Percentage of income linked to postal financial services	10				
+Papua New Guinea	2012	4.1 Operating revenue (SDR)			ND		
+Papua New Guinea	2012	4.2 Operating expenditure (SDR)			ND		
+Papua New Guinea	2012	4.3 Operating result (SDR)			ND		
+Papua New Guinea	2012	4.4 Net result (SDR)			ND		
+Papua New Guinea	2012	5.3 Percentage of income linked to postal financial services			ND		
+Paraguay	2012	4.1 Operating revenue (SDR)	9040670,627				
+Paraguay	2012	4.2 Operating expenditure (SDR)	8867182,515				
+Paraguay	2012	4.3 Operating result (SDR)	173488,112				
+Paraguay	2012	4.4 Net result (SDR)			ND		
+Paraguay	2012	5.3 Percentage of income linked to postal financial services			ND		
+Peru	2012	4.1 Operating revenue (SDR)	19868001,786				
+Peru	2012	4.2 Operating expenditure (SDR)	20058769,329				
+Peru	2012	4.3 Operating result (SDR)	-190767,543				
+Peru	2012	4.4 Net result (SDR)	-487435,57				
+Peru	2012	5.3 Percentage of income linked to postal financial services	2,65				
+Philippines	2012	4.1 Operating revenue (SDR)	52194162,347				
+Philippines	2012	4.2 Operating expenditure (SDR)	50973727,29				
+Philippines	2012	4.3 Operating result (SDR)	1220435,057				
+Philippines	2012	4.4 Net result (SDR)	559019,16				
+Philippines	2012	5.3 Percentage of income linked to postal financial services	14,03				
+Poland	2012	4.1 Operating revenue (SDR)	1248784727,762				
+Poland	2012	4.2 Operating expenditure (SDR)	1239752439,259				
+Poland	2012	4.3 Operating result (SDR)	9032288,503				
+Poland	2012	4.4 Net result (SDR)	18638847,019				
+Poland	2012	5.3 Percentage of income linked to postal financial services	13,9				
+Portugal	2012	4.1 Operating revenue (SDR)	506981974,249				
+Portugal	2012	4.2 Operating expenditure (SDR)	462867811,159				
+Portugal	2012	4.3 Operating result (SDR)	44114163,09				
+Portugal	2012	4.4 Net result (SDR)	33093562,232				
+Portugal	2012	5.3 Percentage of income linked to postal financial services	7				
+Romania	2012	4.1 Operating revenue (SDR)	238394393,023				
+Romania	2012	4.2 Operating expenditure (SDR)	250300393,798				
+Romania	2012	4.3 Operating result (SDR)	-11906000,775				
+Romania	2012	4.4 Net result (SDR)	-10089375,775				
+Romania	2012	5.3 Percentage of income linked to postal financial services	4,64				
+Russian Federation	2012	4.1 Operating revenue (SDR)	2535111396,744				
+Russian Federation	2012	4.2 Operating expenditure (SDR)	2634575835,476				
+Russian Federation	2012	4.3 Operating result (SDR)	-99464438,732				
+Russian Federation	2012	4.4 Net result (SDR)	-17416452,442				
+Russian Federation	2012	5.3 Percentage of income linked to postal financial services	42,1				
+Saint Christopher (St. Kitts) and Nevis	2012	4.1 Operating revenue (SDR)	503599,518				
+Saint Christopher (St. Kitts) and Nevis	2012	4.2 Operating expenditure (SDR)	511451,092				
+Saint Christopher (St. Kitts) and Nevis	2012	4.3 Operating result (SDR)	-7851,574				
+Saint Christopher (St. Kitts) and Nevis	2012	4.4 Net result (SDR)			ND		
+Saint Christopher (St. Kitts) and Nevis	2012	5.3 Percentage of income linked to postal financial services	3				
+Saint Lucia	2012	4.1 Operating revenue (SDR)	987951,807				
+Saint Lucia	2012	4.2 Operating expenditure (SDR)	1058554,217				
+Saint Lucia	2012	4.3 Operating result (SDR)	-70602,41				
+Saint Lucia	2012	4.4 Net result (SDR)			ND		
+Saint Lucia	2012	5.3 Percentage of income linked to postal financial services	,3				
+San Marino	2012	4.1 Operating revenue (SDR)			ND		
+San Marino	2012	4.2 Operating expenditure (SDR)			ND		
+San Marino	2012	4.3 Operating result (SDR)			ND		
+San Marino	2012	4.4 Net result (SDR)			ND		
+San Marino	2012	5.3 Percentage of income linked to postal financial services	0				
+Saudi Arabia	2012	4.1 Operating revenue (SDR)			ND		
+Saudi Arabia	2012	4.2 Operating expenditure (SDR)			ND		
+Saudi Arabia	2012	4.3 Operating result (SDR)			ND		
+Saudi Arabia	2012	4.4 Net result (SDR)			ND		
+Saudi Arabia	2012	5.3 Percentage of income linked to postal financial services			ND		
+Senegal	2012	4.1 Operating revenue (SDR)			ND		
+Senegal	2012	4.2 Operating expenditure (SDR)			ND		
+Senegal	2012	4.3 Operating result (SDR)			ND		
+Senegal	2012	4.4 Net result (SDR)			ND		
+Senegal	2012	5.3 Percentage of income linked to postal financial services			ND		
+Serbia	2012	4.1 Operating revenue (SDR)	164458881,355				
+Serbia	2012	4.2 Operating expenditure (SDR)	156758958,368				
+Serbia	2012	4.3 Operating result (SDR)	7699922,987				
+Serbia	2012	4.4 Net result (SDR)	9387531,522				
+Serbia	2012	5.3 Percentage of income linked to postal financial services	34,53				
+Seychelles	2012	4.1 Operating revenue (SDR)	836832,608				
+Seychelles	2012	4.2 Operating expenditure (SDR)	933066,056				
+Seychelles	2012	4.3 Operating result (SDR)	-96233,448				
+Seychelles	2012	4.4 Net result (SDR)	-96233,448				
+Seychelles	2012	5.3 Percentage of income linked to postal financial services	,01				
+Singapore	2012	4.1 Operating revenue (SDR)			ND		
+Singapore	2012	4.2 Operating expenditure (SDR)			ND		
+Singapore	2012	4.3 Operating result (SDR)			ND		
+Singapore	2012	4.4 Net result (SDR)			ND		
+Singapore	2012	5.3 Percentage of income linked to postal financial services			ND		
+Slovakia	2012	4.1 Operating revenue (SDR)	253666157,082				
+Slovakia	2012	4.2 Operating expenditure (SDR)	254557107,296				
+Slovakia	2012	4.3 Operating result (SDR)	-890950,214				
+Slovakia	2012	4.4 Net result (SDR)	-2345624,034				
+Slovakia	2012	5.3 Percentage of income linked to postal financial services	8,05				
+Slovenia	2012	4.1 Operating revenue (SDR)	196136095,279				
+Slovenia	2012	4.2 Operating expenditure (SDR)	187986151,073				
+Slovenia	2012	4.3 Operating result (SDR)	8149944,206				
+Slovenia	2012	4.4 Net result (SDR)	5435070,386				
+Slovenia	2012	5.3 Percentage of income linked to postal financial services	15				
+Solomon Islands	2012	4.1 Operating revenue (SDR)	838651,542				
+Solomon Islands	2012	4.2 Operating expenditure (SDR)	1406217,21				
+Solomon Islands	2012	4.3 Operating result (SDR)	-567565,668				
+Solomon Islands	2012	4.4 Net result (SDR)			ND		
+Solomon Islands	2012	5.3 Percentage of income linked to postal financial services	30				
+South Africa	2012	4.1 Operating revenue (SDR)	448653451,707				
+South Africa	2012	4.2 Operating expenditure (SDR)	464794810,96				
+South Africa	2012	4.3 Operating result (SDR)	-16141359,253				
+South Africa	2012	4.4 Net result (SDR)	-18335068,116				
+South Africa	2012	5.3 Percentage of income linked to postal financial services	11				
+Spain	2012	4.1 Operating revenue (SDR)			ND		
+Spain	2012	4.2 Operating expenditure (SDR)			ND		
+Spain	2012	4.3 Operating result (SDR)			ND		
+Spain	2012	4.4 Net result (SDR)	-3433476,395				
+Spain	2012	5.3 Percentage of income linked to postal financial services			ND		
+Sri Lanka	2012	4.1 Operating revenue (SDR)	25354434,722				
+Sri Lanka	2012	4.2 Operating expenditure (SDR)	42276164,681				
+Sri Lanka	2012	4.3 Operating result (SDR)	-16921729,959				
+Sri Lanka	2012	4.4 Net result (SDR)	-16921729,959				
+Sri Lanka	2012	5.3 Percentage of income linked to postal financial services	4,5				
+Suriname	2012	4.1 Operating revenue (SDR)	2061632,658				
+Suriname	2012	4.2 Operating expenditure (SDR)	2424368,099				
+Suriname	2012	4.3 Operating result (SDR)	-362735,441				
+Suriname	2012	4.4 Net result (SDR)			ND		
+Suriname	2012	5.3 Percentage of income linked to postal financial services	0				
+Swaziland	2012	4.1 Operating revenue (SDR)	5350863,382				
+Swaziland	2012	4.2 Operating expenditure (SDR)	5784775,674				
+Swaziland	2012	4.3 Operating result (SDR)	-433912,292				
+Swaziland	2012	4.4 Net result (SDR)			ND		
+Swaziland	2012	5.3 Percentage of income linked to postal financial services	,2				
+Sweden	2012	4.1 Operating revenue (SDR)	2949784935,481				
+Sweden	2012	4.2 Operating expenditure (SDR)	2891567470,241				
+Sweden	2012	4.3 Operating result (SDR)	58217465,24				
+Sweden	2012	4.4 Net result (SDR)	43112933,88				
+Sweden	2012	5.3 Percentage of income linked to postal financial services			ND		
+Switzerland	2012	4.1 Operating revenue (SDR)	6090844570,617				
+Switzerland	2012	4.2 Operating expenditure (SDR)	5459190915,543				
+Switzerland	2012	4.3 Operating result (SDR)	631653655,074				
+Switzerland	2012	4.4 Net result (SDR)	609652235,628				
+Switzerland	2012	5.3 Percentage of income linked to postal financial services	27,5				
+Syrian Arab Rep.	2012	4.1 Operating revenue (SDR)			ND		
+Syrian Arab Rep.	2012	4.2 Operating expenditure (SDR)			ND		
+Syrian Arab Rep.	2012	4.3 Operating result (SDR)			ND		
+Syrian Arab Rep.	2012	4.4 Net result (SDR)			ND		
+Syrian Arab Rep.	2012	5.3 Percentage of income linked to postal financial services			ND		
+Tanzania (United Rep.)	2012	4.1 Operating revenue (SDR)	9261804,098				
+Tanzania (United Rep.)	2012	4.2 Operating expenditure (SDR)	3202165,743				
+Tanzania (United Rep.)	2012	4.3 Operating result (SDR)	6059638,355				
+Tanzania (United Rep.)	2012	4.4 Net result (SDR)	4241746,848				
+Tanzania (United Rep.)	2012	5.3 Percentage of income linked to postal financial services			ND		
+Thailand	2012	5.3 Percentage of income linked to postal financial services	4,67				
+the former Yugoslav Republic of Macedonia	2012	4.1 Operating revenue (SDR)	20912027,42				
+the former Yugoslav Republic of Macedonia	2012	4.2 Operating expenditure (SDR)	20898091,856				
+the former Yugoslav Republic of Macedonia	2012	4.3 Operating result (SDR)	13935,564				
+the former Yugoslav Republic of Macedonia	2012	4.4 Net result (SDR)	13935,564				
+the former Yugoslav Republic of Macedonia	2012	5.3 Percentage of income linked to postal financial services	,4				
+Timor-Leste (Dem. Rep.)	2012	4.1 Operating revenue (SDR)	30481,36				
+Timor-Leste (Dem. Rep.)	2012	4.2 Operating expenditure (SDR)	262199,089				
+Timor-Leste (Dem. Rep.)	2012	4.3 Operating result (SDR)	-231717,729				
+Timor-Leste (Dem. Rep.)	2012	4.4 Net result (SDR)	-233669,584				
+Timor-Leste (Dem. Rep.)	2012	5.3 Percentage of income linked to postal financial services	0				
+Togo	2012	4.1 Operating revenue (SDR)	6870267,697				
+Togo	2012	4.2 Operating expenditure (SDR)	6693128,036				
+Togo	2012	4.3 Operating result (SDR)	177139,661				
+Togo	2012	4.4 Net result (SDR)	-236661,984				
+Togo	2012	5.3 Percentage of income linked to postal financial services	59				
+Tonga	2012	4.1 Operating revenue (SDR)	211667,291				
+Tonga	2012	4.2 Operating expenditure (SDR)	222267,891				
+Tonga	2012	4.3 Operating result (SDR)	-10600,6				
+Tonga	2012	4.4 Net result (SDR)	-10600,599				
+Tonga	2012	5.3 Percentage of income linked to postal financial services	0				
+Trinidad and Tobago	2012	4.1 Operating revenue (SDR)	8486748,938				
+Trinidad and Tobago	2012	4.2 Operating expenditure (SDR)	12775642,322				
+Trinidad and Tobago	2012	4.3 Operating result (SDR)	-4288893,384				
+Trinidad and Tobago	2012	4.4 Net result (SDR)	-404612,583				
+Trinidad and Tobago	2012	5.3 Percentage of income linked to postal financial services	0				
+Tunisia	2012	4.1 Operating revenue (SDR)	116634297,944				
+Tunisia	2012	4.2 Operating expenditure (SDR)	120748901,385				
+Tunisia	2012	4.3 Operating result (SDR)	-4114603,441				
+Tunisia	2012	4.4 Net result (SDR)	-2065672,262				
+Tunisia	2012	5.3 Percentage of income linked to postal financial services	68,4				
+Turkey	2012	4.1 Operating revenue (SDR)	723251002,479				
+Turkey	2012	4.2 Operating expenditure (SDR)	660656817,364				
+Turkey	2012	4.3 Operating result (SDR)	62594185,115				
+Turkey	2012	4.4 Net result (SDR)	50499226,652				
+Turkey	2012	5.3 Percentage of income linked to postal financial services	19,93				
+Uganda	2012	4.1 Operating revenue (SDR)	4585732,429				
+Uganda	2012	4.2 Operating expenditure (SDR)	4485924,056				
+Uganda	2012	4.3 Operating result (SDR)	99808,373				
+Uganda	2012	4.4 Net result (SDR)	108229,497				
+Uganda	2012	5.3 Percentage of income linked to postal financial services	,1				
+Ukraine	2012	4.1 Operating revenue (SDR)	327224094,424				
+Ukraine	2012	4.2 Operating expenditure (SDR)	321613349,613				
+Ukraine	2012	4.3 Operating result (SDR)	5610744,811				
+Ukraine	2012	4.4 Net result (SDR)	3295400,895				
+Ukraine	2012	5.3 Percentage of income linked to postal financial services	46,6				
+United States of America	2012	4.1 Operating revenue (SDR)	42435263500,325				
+United States of America	2012	4.2 Operating expenditure (SDR)	52676642810,67				
+United States of America	2012	4.3 Operating result (SDR)	-10241379310,345				
+United States of America	2012	4.4 Net result (SDR)	-10348731294,73				
+United States of America	2012	5.3 Percentage of income linked to postal financial services	0				
+Uruguay	2012	4.1 Operating revenue (SDR)	25802126,547				
+Uruguay	2012	4.2 Operating expenditure (SDR)	40387676,472				
+Uruguay	2012	4.3 Operating result (SDR)	-14585549,925				
+Uruguay	2012	4.4 Net result (SDR)	-14790331,41				
+Uruguay	2012	5.3 Percentage of income linked to postal financial services	6,3				
+Uzbekistan	2012	4.1 Operating revenue (SDR)	38425688,53				
+Uzbekistan	2012	4.2 Operating expenditure (SDR)	25807948,343				
+Uzbekistan	2012	4.3 Operating result (SDR)	12617740,187				
+Uzbekistan	2012	4.4 Net result (SDR)	1475489,281				
+Uzbekistan	2012	5.3 Percentage of income linked to postal financial services	69,9				
+Vatican	2012	4.1 Operating revenue (SDR)			ND		
+Vatican	2012	4.2 Operating expenditure (SDR)			ND		
+Vatican	2012	4.3 Operating result (SDR)			ND		
+Vatican	2012	4.4 Net result (SDR)			ND		
+Vatican	2012	5.3 Percentage of income linked to postal financial services			ND		
+Venezuela (Bolivarian Rep.)	2012	4.1 Operating revenue (SDR)	25298621,873				
+Venezuela (Bolivarian Rep.)	2012	4.2 Operating expenditure (SDR)	22788709,436				
+Venezuela (Bolivarian Rep.)	2012	4.3 Operating result (SDR)	2509912,437				
+Venezuela (Bolivarian Rep.)	2012	4.4 Net result (SDR)	2509912,438				
+Venezuela (Bolivarian Rep.)	2012	5.3 Percentage of income linked to postal financial services	0				
+Viet Nam	2012	4.1 Operating revenue (SDR)	329381496,773				
+Viet Nam	2012	4.2 Operating expenditure (SDR)	328394558,793				
+Viet Nam	2012	4.3 Operating result (SDR)	986937,98				
+Viet Nam	2012	4.4 Net result (SDR)			ND		
+Viet Nam	2012	5.3 Percentage of income linked to postal financial services	20,14				
+Yemen	2012	4.1 Operating revenue (SDR)			ND		
+Yemen	2012	4.2 Operating expenditure (SDR)			ND		
+Yemen	2012	4.3 Operating result (SDR)			ND		
+Yemen	2012	4.4 Net result (SDR)			ND		
+Yemen	2012	5.3 Percentage of income linked to postal financial services			ND		
+Zambia	2012	4.1 Operating revenue (SDR)	9820860,936				
+Zambia	2012	4.2 Operating expenditure (SDR)	13105016,056				
+Zambia	2012	4.3 Operating result (SDR)	-3284155,12				
+Zambia	2012	4.4 Net result (SDR)	-3193225,664				
+Zambia	2012	5.3 Percentage of income linked to postal financial services	42				
+Zimbabwe	2012	4.1 Operating revenue (SDR)	13663022,986				
+Zimbabwe	2012	4.2 Operating expenditure (SDR)	13913037,736				
+Zimbabwe	2012	4.3 Operating result (SDR)	-250014,75				
+Zimbabwe	2012	4.4 Net result (SDR)			ND		
+Zimbabwe	2012	5.3 Percentage of income linked to postal financial services	17,53				
