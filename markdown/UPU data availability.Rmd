@@ -1,0 +1,35 @@
+---
+title: 'Data availability: Postal Revenue'
+author: "Ben Mazzotta"
+date: "Wednesday, August 27, 2014"
+output: html_document
+---
+
+The Universal Postal Union reports postal income from financial services for many countries around the world.
+
+Data are reported in national historic series up to 2012. Countries may report gross earnings in Special Drawing Rights (SDR), a weighted basket of currencies calculated by the IMF for central bankers and sovereign lending.
+
+This file summarizes the availability of data for selected countries.
+
+
+```{r UPU, fig.width=10, fig.height=6.1}
+load(file="../data/UPU.Rda")
+summary(df)
+
+## How many country-years of data?
+dim(df)
+
+## How many observations per country?
+table(df$iso3c)
+
+## How many observations by type of data?
+table(df$Items, !is.na(df$Value))
+
+```
+
+
+
+--- 
+This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+
+Ben Mazzotta is a postdoc at the [Institute for Business in the Global Context](http://fletcher.tufts.edu/IBGC) (IBGC), the business institute at the Fletcher School, Tufts University.
