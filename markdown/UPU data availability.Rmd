@@ -25,8 +25,20 @@ table(df$iso3c)
 ## How many observations by type of data?
 table(df$Items, !is.na(df$Value))
 
+
 ```
 
+What do postal services report for the share of revenue from financial services?
+
+```{r finsvc, fig.width=8, fig.height=4.5}
+
+## Plot the distribution
+require(ggplot2)
+ggplot(subset(df, varname=="finsvc"), aes(Value), fill=varname) +geom_density(fill="red") + labs(title="What percent of postal revenues come from financial services?", x="Percent of gross revenues",y="Density estimate") 
+
+ggplot(subset(df, varname=="finsvc"), aes(Region, Value)) + geom_boxplot() +coord_flip() + labs(title="What percent of postal revenues come from financial services? \n Boxplots by Region", x="Region",y="Percent of gross revenues")
+
+```
 
 
 --- 

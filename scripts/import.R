@@ -20,18 +20,19 @@ str(df)
 
 lapply(df, function(xx) table(is.na(xx)))
 
-head(unique(df$Administrations), 90)
+head(unique(df$Administrations), 20)
 
 # install.packages("countrycode")
 require(countrycode)
 
-df$iso3c <- countrycode(df$Administrations, "country.name", "iso3c", warn=T)
+df$abbr <- countrycode(df$Administrations, "country.name", "wb", warn=T)
 names(df)
-df <- with(df, data.frame(Administrations, iso3c, Years, Value, Items, Remark, Info, Ref., X))
+df <- with(df, data.frame(Administrations, abbr, Years, Value, Items, Remark, Info, Ref., X))
+df$Region <- countrycode(df$abbr, "wb", "region", warn=T)
 
 ## Did country abbreviations work? Appears yes.
 
-table(df$iso3c)
+table(df$abbr)
 table(df$Administrations)
 
 # unique(grep("Congo", df$Administrations, value=T))
@@ -64,14 +65,19 @@ names(df)
 
 attr(df$Value, "units") <- "Special Drawing Rights (SDR)"
 
+varnames <- c("gross","expense","result","net","finsvc")
+df$varname <- factor(df$Item, labels=varnames)
+
+names(df[names(df)=="Administrations"]) <- "Country"
+
 #   Recap:
-#   193 countries, 181 with known ISO3C codes
+#   193 countries, 181 with known abbr codes
 lapply(df, levels)
 summary(df)
 
 # ### 
 # Summary
-# 1. Administrations and ISO3C are plausible.
+# 1. Administrations and abbr are plausible.
 # 2. Not all countries reported all years. Many country-years report missing data.
 # 3. Values of revenue are reported in SDR except Share of income linked to postal services.
 # 
